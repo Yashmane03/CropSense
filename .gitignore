@@ -1,3 +1,23 @@
+# Dependencies
+node_modules/
+.next/
+
+# Dataset
+data/tomato_dataset/
+
+# Uploaded images
+backend/uploads/
+
+# Model files
+models/
+
+# Local database
+backend/*.db
+
+# Environment variables
+.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
